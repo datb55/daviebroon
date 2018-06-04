@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+       <head>
+           <title>nuyoo | healthier choices</title>
+            <link href="./img/nuyoo-logo32x32.png" rel="shortcut icon"/>
+            <meta charset="utf-8"/>
+            <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0" name="viewport"/>
+            <link href="./css/desktop.css" rel="stylesheet" type="text/css"/>
+            <meta name="author" content="David Brown">
+            <meta name="description" content="the nuyoo campaign aims to give you easy access to professional advice allowing you to make healthier choices. the campaign is funded by local government">
+            <link rel="stylesheet" href="css/desktop.css">
+        </head>
+    <body style="margin: 0;
+ background: rgba(255, 255, 255, 1.0);">
+        <input id="anPageName" name="page" type="hidden" value="desktop"/>
+        <div class="bp4-mobileportrait">
+            <div style="width: 320px; height: 100%; position:relative; margin:auto;">
+                <div class="bp4-rectanglecopy3">
+                </div>
+                <img anima-src="./img/mobile-portrait-rectangle-3.png" class="bp4-rectangle3" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                <div class="bp4-recipes">
+                    Recipes
+                </div>
+                <div class="bp4-weknowhowhardit">
+                    We know how hard it can be to find time to <strong>stay healthy</strong> Which is why we will send you quick and healthy recipes straight to your inbox!
+                </div>
+                <img anima-src="./img/mobile-portrait-diet-food-pwknytb.png" class="bp4-dietfoodpwknytb" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                <div class="bp4-avoeggcopy2">
+                    <video anima-src="https://www.coverr.co/s3/mp4/avo-egg.mp4" autoplay="autoplay" loop="" muted="" playsinline="" src="">
+                    </video>
+                </div>
+                <div class="bp4-rectangle2copy2">
+                </div>
+                <div class="bp4-firstnameforminputcopy2">
+                    <div class="bp4-field1">
+                        <div class="bp4-field">
+                            <img anima-src="./img/desktop-input.png" class="bp4-input" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                        </div>
+                    </div>
+                    <input class="bp4-textname" name="textName" placeholder="Name"/>
+                </div>
+                <div class="bp4-emailinput">
+                    <div class="bp4-field11">
+                        <div class="bp4-field2">
+                            <img anima-src="./img/desktop-input.png" class="bp4-input1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                        </div>
+                    </div>
+                    <input class="bp4-textemail" name="textEmail" placeholder="Email"/>
+                </div>
+                <div class="bp4-buttonsprimary">
+                    <img anima-src="./img/tablet-portrait-button-background.png" class="bp4-buttonbackground" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                    <img anima-src="./img/tablet-portrait-button-background-copy.png" class="bp4-buttonbackgroundcopy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                    <div class="bp4-signup">
+                        SIGN UP!
+                    </div>
+                </div>
+                <div class="bp4-discoverthenewyou">
+                    Discover the new
+                    <br/>
+                    you today!
+                </div>
+                <img anima-src="./img/mobile-portrait-welcome-the-nuyoo-ca@2x.png" class="bp4-welcomethenuyooca" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                <div class="bp4-group">
+                    <div class="bp4-rectangle">
+                    </div>
+                    <div class="bp4-rectanglecopy">
+                    </div>
+                    <div class="bp4-rectanglecopy2">
+                    </div>
+                </div>
+                <img anima-src="./img/mobile-portrait-nuyoologo.png" class="bp4-nuyoologo" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+            </div>
+        </div>
+        <div class="bp3-tabletportrait">
+            <div style="width: 768px; height: 100%; position:relative; margin:auto;">
+                <div class="bp3-rectanglecopy2">
+                </div>
+                <img anima-src="./img/tablet-portrait-rectangle.png" class="bp3-rectangle" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                <div class="bp3-avoeggcopy">
+                    <video anima-src="https://www.coverr.co/s3/mp4/avo-egg.mp4" autoplay="autoplay" loop="" muted="" playsinline="" src="">
+                    </video>
+                </div>
+                <div class="bp3-rectangle2copy">
+                </div>
+                <div class="bp3-firstnameforminputcopy">
+                    <div class="bp3-field1">
+                        <div class="bp3-field">
+                            <img anima-src="./img/desktop-input.png" class="bp3-input" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                        </div>
+                    </div>
+                    <input class="bp3-textname" name="textName" placeholder="Name"/>
+                </div>
+                <div class="bp3-emailinput">
+                    <div class="bp3-field11">
+                        <div class="bp3-field2">
+                            <img anima-src="./img/desktop-input.png" class="bp3-input1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                        </div>
+                    </div>
+                    <input class="bp3-textemail" name="textEmail" placeholder="Email"/>
+                </div>
+                <div class="bp3-buttonsprimary">
+                    <img anima-src="./img/tablet-portrait-button-background.png" class="bp3-buttonbackground" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                    <img anima-src="./img/tablet-portrait-button-background-copy.png" class="bp3-buttonbackgroundcopy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                    <div class="bp3-signup">
+                        SIGN UP!
+                    </div>
+                </div>
+                <div class="bp3-discoverthenewyoucopy">
+                    Discover the new you today!
+                </div>
+                <img anima-src="./img/tablet-portrait-diet-food-pwknytb.png" class="bp3-dietfoodpwknytb" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                <img anima-src="./img/desktop-nuyoologo.png" class="bp3-nuyoologo" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                <img anima-src="./img/desktop-welcome-the-nuyoo-ca.png" class="bp3-welcomethenuyooca" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                <div class="bp3-aboutcopy">
+                    About
+                </div>
+                <div class="bp3-contactcopy">
+                    Contact
+                </div>
+                <div class="bp3-storecopy">
+                    Store
+                </div>
+                <div class="bp3-recipes">
+                    Recipes
+                </div>
+                <div class="bp3-weknowhowhardit">
+                    We know how hard it can be to find time to <strong>stay healthy.</strong> Which is why we will send you quick and healthy recipes straight to your inbox!
+                </div>
+            </div>
+        </div>
+        <div class="bp1-desktop">
+            <div style="width: 1026px; height: 100%; position:relative; margin:auto;">
+                <div class="bp1-rectanglecopy">
+                </div>
+                <img anima-src="./img/desktop-rectangle.png" class="bp1-rectangle" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                <div class="bp1-recipes">
+                    Recipes
+                </div>
+                <div class="bp1-weknowhowhardit">
+                    We know how hard it can be to find time to <strong>stay healthy.</strong> Which is why we will send you quick and healthy recipes straight to your inbox!
+                </div>
+                <img anima-src="./img/desktop-diet-food-pwknytb.png" class="bp1-dietfoodpwknytb" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                <div class="bp1-avoegg">
+                    <video anima-src="https://www.coverr.co/s3/mp4/avo-egg.mp4" autoplay="autoplay" loop="" muted="" playsinline="" src="">
+                    </video>
+                </div>
+                <div class="bp1-rectangle2">
+                </div>
+                <div class="bp1-firstnameforminput">
+                    <div class="bp1-field1">
+                        <div class="bp1-field">
+                            <img anima-src="./img/desktop-input.png" class="bp1-input" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                        </div>
+                    </div>
+                    <input class="bp1-textname" name="textName" placeholder="Name"/>
+                </div>
+                <div class="bp1-emailinput">
+                    <div class="bp1-field11">
+                        <div class="bp1-field2">
+                            <img anima-src="./img/desktop-input.png" class="bp1-input1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                        </div>
+                    </div>
+                    <input class="bp1-textemail" name="textEmail" placeholder="Email"/>
+                </div>
+                <div class="bp1-buttonsprimary">
+                    <img anima-src="./img/tablet-portrait-button-background.png" class="bp1-buttonbackground" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                    <img anima-src="./img/tablet-portrait-button-background-copy.png" class="bp1-buttonbackgroundcopy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                    <div class="bp1-signup">
+                        SIGN UP!
+                    </div>
+                </div>
+                <div class="bp1-discoverthenewyou">
+                    Discover the new you today!
+                </div>
+                <img anima-src="./img/desktop-welcome-the-nuyoo-ca.png" class="bp1-welcomethenuyooca" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                <img anima-src="./img/desktop-nuyoologo.png" class="bp1-nuyoologo" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                <div class="bp1-about">
+                    About
+                </div>
+                <div class="bp1-contact">
+                    Contact
+                </div>
+                <div class="bp1-store">
+                    Store
+                </div>
+            </div>
+        </div>
+        <div class="bp2-desktophd">
+            <div style="width: 1440px; height: 100%; position:relative; margin:auto;">
+                <div class="bp2-rectangle">
+                </div>
+                <img anima-src="./img/desktop-hd-rectangle-copy-2.png" class="bp2-rectanglecopy2" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                <img anima-src="./img/desktop-hd-diet-food-pwknytb.png" class="bp2-dietfoodpwknytb" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                <div class="bp2-avoeggcopy">
+                    <video anima-src="https://www.coverr.co/s3/mp4/avo-egg.mp4" autoplay="autoplay" loop="" muted="" playsinline="" src="">
+                    </video>
+                </div>
+                <div class="bp2-recipes">
+                    Recipes
+                </div>
+                <div class="bp2-weknowhowhardit">
+                    We know how hard it can be to find time to <strong>stay healthy.</strong> Which is why we will send you quick and healthy recipes straight to your inbox!
+                </div>
+                <img anima-src="./img/desktop-hd-welcome-the-nuyoo-ca.png" class="bp2-welcomethenuyooca" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                <div class="bp2-rectangle2copy">
+                </div>
+                <div class="bp2-firstnameforminputcopy">
+                    <div class="bp2-field1">
+                        <div class="bp2-field">
+                            <img anima-src="./img/desktop-hd-input 1.png" class="bp2-input" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                        </div>
+                    </div>
+                    <input class="bp2-textname" name="textName" placeholder="Name"/>
+                </div>
+                <div class="bp2-emailinput">
+                    <div class="bp2-field11">
+                        <div class="bp2-field2">
+                            <img anima-src="./img/desktop-hd-input 1.png" class="bp2-input1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                        </div>
+                    </div>
+                    <input class="bp2-textemail" name="textEmail" placeholder="Email"/>
+                </div>
+                <div class="bp2-buttonsprimary">
+                    <img anima-src="./img/desktop-hd-button-background.png" class="bp2-buttonbackground" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                    <img anima-src="./img/desktop-hd-button-background-copy.png" class="bp2-buttonbackgroundcopy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                    <div class="bp2-signup">
+                        SIGN UP!
+                    </div>
+                </div>
+                <div class="bp2-discoverthenewyoucopy">
+                    Discover the new you today!
+                </div>
+                <img anima-src="./img/desktop-nuyoologo.png" class="bp2-nuyoologo" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                <div class="bp2-about">
+                    About
+                </div>
+                <div class="bp2-contact">
+                    Contact
+                </div>
+                <div class="bp2-store">
+                    Store
+                </div>
+            </div>
+        </div>
+        <!-- Scripts -->
+        <script>
+            anima_isHidden = function(e) {
+                if (!(e instanceof HTMLElement)) return !1;
+                if (getComputedStyle(e).display == "none") return !0; else if (e.parentNode && anima_isHidden(e.parentNode)) return !0;
+                return !1;
+            };
+            anima_loadAsyncSrcForTag = function(tag) {
+                var elements = document.getElementsByTagName(tag);
+                var toLoad = [];
+                for (var i = 0; i < elements.length; i++) {
+                    var e = elements[i];
+                    var src = e.getAttribute("src");
+                    var loaded = (src != undefined && src.length > 0 && src != 'data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==');
+                    if (loaded) continue;
+                    var asyncSrc = e.getAttribute("anima-src");
+                    if (asyncSrc == undefined || asyncSrc.length == 0) continue;
+                    if (anima_isHidden(e)) continue;
+                    toLoad.push(e);
+                }
+                toLoad.sort(function(a, b) {
+                    return anima_getTop(a) - anima_getTop(b);
+                });
+                for (var i = 0; i < toLoad.length; i++) {
+                    var e = toLoad[i];
+                    var asyncSrc = e.getAttribute("anima-src");
+                    e.setAttribute("src", asyncSrc);
+                }
+            };
+            anima_pauseHiddenVideos = function(tag) {
+                var elements = document.getElementsByTagName("video");
+                for (var i = 0; i < elements.length; i++) {
+                    var e = elements[i];
+                    var isPlaying = !!(e.currentTime > 0 && !e.paused && !e.ended && e.readyState > 2);
+                    var isHidden = anima_isHidden(e);
+                    if (!isPlaying && !isHidden && e.getAttribute("autoplay") == "autoplay") {
+                        e.play();
+                    } else if (isPlaying && isHidden) {
+                        e.pause();
+                    }
+                }
+            };
+            anima_loadAsyncSrc = function(tag) {
+                anima_loadAsyncSrcForTag("img");
+                anima_loadAsyncSrcForTag("iframe");
+                anima_loadAsyncSrcForTag("video");
+                anima_pauseHiddenVideos();
+            };
+            var anima_getTop = function(e) {
+                var top = 0;
+                do {
+                    top += e.offsetTop || 0;
+                    e = e.offsetParent;
+                } while (e);
+                return top;
+            };
+            anima_loadAsyncSrc();
+            anima_old_onResize = window.onresize;
+            anima_new_onResize = undefined;
+            anima_updateOnResize = function() {
+                if (anima_new_onResize == undefined || window.onresize != anima_new_onResize) {
+                    anima_new_onResize = function(x) {
+                        if (anima_old_onResize != undefined) anima_old_onResize(x);
+                        anima_loadAsyncSrc();
+                    };
+                    window.onresize = anima_new_onResize;
+                    setTimeout(function() {
+                        anima_updateOnResize();
+                    }, 3000);
+                }
+            };
+            anima_updateOnResize();
+            setTimeout(function() {
+                anima_loadAsyncSrc();
+            }, 200);
+        </script>
+        <!-- End of Scripts -->
+    </body>
+       <footer><p> Designed by: David Brown</p> Contact information: <a  href="mailto:david.brown@digitalskillsacademy.me">david.brown@digitalskillsacademy.me</a>
+        </footer>
+</html>
